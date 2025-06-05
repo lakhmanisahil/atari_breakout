@@ -1,0 +1,5 @@
+torch
+gym[atari,accept-rom-license]
+opencv-python
+numpy
+scipy
